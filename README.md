@@ -14,3 +14,5 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/N0R37urn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/N0R37urn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/jeronimo-echeverri) [![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@N0R37urn)
 
+## 🌐 Website:
+[[![Website](https://img.shields.io/badge/Website-n0r37urn.com?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuwebsite.com](https://www.n0r37urn.com/))
